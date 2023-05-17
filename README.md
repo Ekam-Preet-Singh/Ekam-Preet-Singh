@@ -2,41 +2,32 @@
 
 ### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=ekam-preet-singh&label=Profile%20views&color=0e75b6&style=flat)
 
-<h3  align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>  
+<p align="left">
 
-<p  align="left">
-
-<a  href="https://www.linkedin.com/in/ekam-preet/"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  alt="https://www.linkedin.com/in/ekam-preet/"  height="30"  width="40" /></a>
-
-<a  href="https://www.codechef.com/users/mstriker07"  target="blank"><img  align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg"  alt="https://www.codechef.com/users/mstriker07"  height="30"  width="40" /></a>
-
-<a  href="https://codeforces.com/profile/Master_Striker"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg"  alt="https://codeforces.com/profile/Master_Striker"  height="30"  width="40" /></a>
-
-<a  href="https://leetcode.com/Master_Striker07/"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"  alt="https://leetcode.com/Master_Striker07/"  height="30"  width="40" /></a>
-
-<a  href="https://auth.geeksforgeeks.org/user/masterstriker0728"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg"  alt="https://auth.geeksforgeeks.org/user/masterstriker0728"  height="30"  width="40" /></a>
-
-<a  href="https://www.hackerrank.com/Master_Striker"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"  alt="https://www.hackerrank.com/Master_Striker"  height="30"  width="40" /></a>
+<a  href="https://www.linkedin.com/in/ekam-preet/"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  alt="https://www.linkedin.com/in/ekam-preet/"  height="30"  width="40" /></a><a  href="https://www.codechef.com/users/mstriker07"  target="blank"><img  align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg"  alt="https://www.codechef.com/users/mstriker07"  height="30"  width="40" /></a><a  href="https://codeforces.com/profile/Master_Striker"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg"  alt="https://codeforces.com/profile/Master_Striker"  height="30"  width="40" /></a><a  href="https://leetcode.com/Master_Striker07/"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"  alt="https://leetcode.com/Master_Striker07/"  height="30"  width="40" /></a><a  href="https://auth.geeksforgeeks.org/user/masterstriker0728"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg"  alt="https://auth.geeksforgeeks.org/user/masterstriker0728"  height="30"  width="40" /></a><a  href="https://www.hackerrank.com/Master_Striker"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"  alt="https://www.hackerrank.com/Master_Striker"  height="30"  width="40" /></a>
 
 </p>
+
+### About me
 
 I am a full-stack software engineer. I love programming, writing, speaking and traveling.
 
 As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
-<img  align="right"  alt="GIF"  src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true"  width="408"  height="318" />
+<img  align="right"  alt="GIF"  src="https://github.com/Ekam-Preet-Singh/Ekam-Preet-Singh/blob/main/assets/coding.gif?raw=true"  width="408"  height="318" />
 
 **Talking about Personal Stuffs:**
 
-- <img  src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true"  width="21" />&nbsp;&nbsp; I’m currently working on something cool;
+- <img  src="https://github.com/Ekam-Preet-Singh/Ekam-Preet-Singh/blob/main/assets/developer.gif?raw=true"  width="21" />&nbsp;&nbsp; I’m currently working on something cool;
 
-- <img  src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true"  width="21" />&nbsp;&nbsp; I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/Master_Striker07/);
+- <img  src="https://github.com/Ekam-Preet-Singh/Ekam-Preet-Singh/blob/main/assets/lightning.gif?raw=true"  width="21" />&nbsp;&nbsp; I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/Master_Striker07/);
 
-- <img  src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true"  width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help;
+- <img  src="https://github.com/Ekam-Preet-Singh/Ekam-Preet-Singh/blob/main/assets/message.gif?raw=true"  width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help;
 
-- I’m looking to collaborate on **React JS, C++ projects**
+- <img  src="https://github.com/Ekam-Preet-Singh/Ekam-Preet-Singh/blob/main/assets/collaborate.svg?raw=true"  width="21" />&nbsp;&nbsp; I’m looking to collaborate on **React JS, C++ projects**
 
-- <img  src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true"  width="21" />&nbsp;&nbsp; How to reach me: ekampreet.singh6862@gmail.com;
+- <img  src="https://github.com/Ekam-Preet-Singh/Ekam-Preet-Singh/blob/main/assets/letterbox.gif?raw=true"  width="21" />&nbsp;&nbsp; How to reach me: ekampreet.singh6862@gmail.com;
 
 </br>
 
