@@ -32,15 +32,15 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 
 **Talking about Personal Stuffs:**
 
-- <img  src="https://github.com/Ekam-Preet-Singh/Ekam-Preet-Singh/blob/main/assets/developer.gif?raw=true"  width="21" />&nbsp;&nbsp; I’m currently looking for an internship;
+- <img  src="https://github.com/Ekam-Preet-Singh/Ekam-Preet-Singh/blob/main/assets/developer.gif?raw=true"  width="21" />&nbsp;&nbsp; I’m currently looking for an internship
 
-- <img  src="https://github.com/Ekam-Preet-Singh/Ekam-Preet-Singh/blob/main/assets/lightning.gif?raw=true"  width="21" />&nbsp;&nbsp; I’m learning Data Structures and Algorithms on [leetcode](https://leetcode.com/Master_Striker07/);
+- <img  src="https://github.com/Ekam-Preet-Singh/Ekam-Preet-Singh/blob/main/assets/lightning.gif?raw=true"  width="21" />&nbsp;&nbsp; I’m learning Data Structures and Algorithms on [leetcode](https://leetcode.com/Master_Striker07/)
 
-- <img  src="https://github.com/Ekam-Preet-Singh/Ekam-Preet-Singh/blob/main/assets/message.gif?raw=true"  width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help;
+- <img  src="https://github.com/Ekam-Preet-Singh/Ekam-Preet-Singh/blob/main/assets/message.gif?raw=true"  width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help
 
 - <img  src="https://github.com/Ekam-Preet-Singh/Ekam-Preet-Singh/blob/main/assets/collaborate.svg?raw=true"  width="21" />&nbsp;&nbsp; I’m looking to collaborate on **Web Development Project**
 
-- <img  src="https://github.com/Ekam-Preet-Singh/Ekam-Preet-Singh/blob/main/assets/letterbox.gif?raw=true"  width="21" />&nbsp;&nbsp; How to reach me: ekampreet.singh6862@gmail.com;
+- <img  src="https://github.com/Ekam-Preet-Singh/Ekam-Preet-Singh/blob/main/assets/letterbox.gif?raw=true"  width="21" />&nbsp;&nbsp; How to reach me: ekampreet.singh6862@gmail.com
 
 </br>
 
