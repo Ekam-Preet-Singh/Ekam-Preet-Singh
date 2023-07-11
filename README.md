@@ -110,12 +110,12 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 
 <span>
 <a href="https://codeforces.com/profile/Master_Striker">
-<img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=Master_Striker&theme=github_dark&force_username=true&border_color=404040" alt="redheadphone Codeforces Stats"/>
+<img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=Master_Striker&theme=github_dark&force_username=true&border_color=404040" alt="Master_Striker Codeforces Stats"/>
 </a>
 <a href="https://leetcode.com/Master_Striker07">
-<img height="316" src="https://leetcard.jacoblin.cool/Master_Striker07?theme=dark&font=Ubuntu&cache=14400&ext=contest&sheets=https://gist.githubusercontent.com/RedHeadphone/5e715e284c89cace8f5fa09f7fb930b8/raw/ec0be570f114124b1a2156a660d67baa0ab5639d/leetcode_stats_card.css" alt="RedHeadphone Leetcode Stats"/>
+<img height="316" src="https://leetcard.jacoblin.cool/Master_Striker07?theme=dark&font=Ubuntu&cache=14400&ext=contest&sheets=https://gist.githubusercontent.com/RedHeadphone/5e715e284c89cace8f5fa09f7fb930b8/raw/ec0be570f114124b1a2156a660d67baa0ab5639d/leetcode_stats_card.css" alt="Master_Striker07 Leetcode Stats"/>
 </a>
 <a href="https://auth.geeksforgeeks.org/user/masterstriker0728">
-<img height="316" src="https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=masterstriker0728" alt="RedHeadphone Leetcode Stats"/>
+<img height="316" src="https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=masterstriker0728" alt="masterstriker0728 GeeksforGeeks Stats"/>
 </a>
 </span>
